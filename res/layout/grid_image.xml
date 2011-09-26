@@ -1,0 +1,21 @@
+<RelativeLayout
+  android:id="@+id/widget44"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:paddingBottom="10dp">
+  
+    <ImageView android:layout_width="wrap_content" android:id="@+id/icon_image" android:layout_height="wrap_content"
+     android:layout_alignParentLeft="true" ></ImageView>
+    
+    <ImageView android:layout_width="wrap_content" android:id="@+id/marker_image" 
+    android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_toRightOf="@+id/icon_image"
+    ></ImageView>
+    
+    <TextView android:layout_height="wrap_content" android:textSize="10sp"
+android:textStyle="bold"
+android:textColorHighlight="#656565" android:text="Default" android:id="@+id/icon_text" android:layout_width="wrap_content"
+      android:layout_centerHorizontal="true" android:layout_below="@+id/icon_image"></TextView>
+    
+</RelativeLayout>

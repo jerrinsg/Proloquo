@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="iconbackground">#ffaaff</drawable>
+    <drawable name="testing">#000000</drawable>
+	<drawable name="horizscroll">#ffaaff</drawable>
+	<drawable name="clearbackground">#aaffaa</drawable>
+	<drawable name="grid">#000000</drawable>
+	<drawable name="sub">#806080</drawable>
+	<drawable name="touch">#8f9898</drawable>
+</resources>

@@ -1,0 +1,17 @@
+ <RelativeLayout
+  android:id="@+id/widget66"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  >
+  
+    <ImageView android:layout_width="wrap_content" android:id="@+id/scroll_icon" android:layout_height="wrap_content"
+      ></ImageView>
+    
+    <TextView android:layout_height="wrap_content" android:textSize="10sp"
+android:textColor="#060b44" android:text="Default" android:id="@+id/scroll_text" android:layout_width="wrap_content"
+     android:textStyle="bold"
+      android:layout_centerHorizontal="true" android:layout_below="@+id/scroll_icon"></TextView>
+    
+</RelativeLayout>
