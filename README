@@ -1,0 +1,44 @@
+INTRODUCTION
+-------------
+This is basically a Text to Speech application developed for the Android operating system for mobile devices.
+
+It was my summer project (June - July 2011) done as part of Insight project (http://insight.kerala.gov.in/ ) of SPACE (Society For Promotion of Alternative Computing and Employment  - http://www.space-kerala.org/ ) 
+ 
+It is an Augmentative and alternative communication (AAC) tool which supplement or replace speech or writing for those with impairments in the production or comprehension of spoken or written language.
+ 
+INSTALLATION
+ -------------
+The apk (Android application package) file is found in the bin directory.
+Extract the contents of Proloquo.tar.gz to the root directory of your SDCARD.
+The tarball contains the folder Proloquo
+
+DEPENDENCIES
+-------------
+   (i)  Requires Android 2.2 or later (API Level 8)
+
+MODIFICATIONS
+--------------
+All resources used in this application (Sounds,Pictures,Text) can be modified by making appropriate changes in the Proloquo directory. 
+Sound : eSpeak speech synthesizer
+
+LICENSE
+--------
+Copyright 2011 Jerrin Shaji George
+
+This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+   
+AUTHORS
+--------
+Jerrin Shaji George
+E-mail : jerrinsg@gmail.com
